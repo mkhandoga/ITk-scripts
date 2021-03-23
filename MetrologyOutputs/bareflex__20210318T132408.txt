@@ -1,0 +1,31 @@
+:BEGIN
+"Flex serial number"
+"020"
+"2021-03-18 13:24:14"
+"Rectangle 7: Largeur",40.440
+"Rectangle 7: Hauteur",40.447
+"Plan EdgeLeft: Centre Z",0.118
+"Plan EdgeLeft: Erreur Résiduelle RMS",0.027
+"Plan EdgeRight: Centre Z",0.207
+"Plan EdgeRight: Erreur Résiduelle RMS",0.015
+"Plan SurfGA1: Centre Z",0.197
+"Plan SurfGA1: Erreur Résiduelle RMS",0.006
+0.217
+0.005
+"Plan SurfGA3: Centre Z",0.224
+"Plan SurfGA3: Erreur Résiduelle RMS",0.004
+"Plan SurfGA4: Centre Z",0.211
+"Plan SurfGA4: Erreur Résiduelle RMS",0.007
+"Plan Flex: Centre Z",0.213
+"Plan Flex: Planéité",0.067
+"Plan Flex: Erreur Résiduelle RMS",0.009
+"Plan FlexNoBorders: Centre Z",0.212
+"Plan FlexNoBorders: Planéité",0.043
+"Plan FlexNoBorders: Erreur Résiduelle RMS",0.007
+"Distance CapHeight: Distance Z",1.680
+"Distance ConnectorHeight: Distance Z",1.151
+"Plan RefPlateCheck: Centre Z",-0.011
+"Plan RefPlateCheck: Erreur Résiduelle RMS",0.002
+"Plan BelowHV: Centre Z",0.203
+"Plan BelowHV: Erreur Résiduelle RMS",0.003
+:END
